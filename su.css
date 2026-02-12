@@ -1,6 +1,8 @@
 body{
     background-color: pink;
     border-color: red;
+    border: 5px dotted red;
+
     
 }
 p{
@@ -8,8 +10,9 @@ p{
     
 }
 h1{
-    color: red;;
+    
     justify-self: center;
+    color: red;
 }
 h3{
     color:red;
@@ -34,4 +37,8 @@ img{
     width: 18%;
     display: block;
     margin: 0 auto;
+}
+a{
+    
+    color: red;
 }
