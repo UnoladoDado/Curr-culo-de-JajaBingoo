@@ -1,0 +1,37 @@
+body{
+    background-color: pink;
+    border-color: red;
+    
+}
+p{
+    color:red;
+    
+}
+h1{
+    color: red;;
+    justify-self: center;
+}
+h3{
+    color:red;
+    justify-self: center;
+}
+li{
+    color: red;
+}
+.caixa{
+    color: rgb(240, 124, 144);
+    width: 50%;
+    height: 25%;
+    background-color:  rgb(247, 125, 145);
+    justify-self: center;
+}
+.baba{
+     color:red;
+    justify-self: center;
+    text-justify: distribute-all-lines;
+}
+img{
+    width: 18%;
+    display: block;
+    margin: 0 auto;
+}
